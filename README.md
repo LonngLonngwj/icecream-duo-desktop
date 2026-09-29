@@ -6,7 +6,7 @@
 
 ## 下载与安装
 
-从 [Releases 页面](https://github.com/LonngLonngwj/icecream-duo-desktop/releases/latest) 下载 `甜筒双狗-安装包-1.0.0-x64.exe`。运行安装向导时可以选择安装目录。安装后，可通过桌面快捷方式、开始菜单或安装目录内的 `甜筒双狗.exe` 启动。
+从 [Releases 页面](https://github.com/LonngLonngwj/icecream-duo-desktop/releases/latest) 下载 `icecream-duo-setup-1.0.0-x64.exe`。运行安装向导时可以选择安装目录。安装后，可通过桌面快捷方式、开始菜单或安装目录内的 `甜筒双狗.exe` 启动。
 
 安装包尚未进行数字签名，Windows 可能显示「未知发布者」或 SmartScreen 提醒。请确认下载地址为本仓库后再决定是否运行。
 
