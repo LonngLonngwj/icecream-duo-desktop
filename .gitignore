@@ -1,0 +1,6 @@
+node_modules/
+dist/
+qa-capture.js
+qa-window.png
+make_icon.py
+
